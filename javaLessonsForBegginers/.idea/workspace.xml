@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e211535-db52-46c6-9f44-742f5eb9eabe" name="Default" comment="changing Math.java to Arithmetic.java">
+    <list default="true" id="8e211535-db52-46c6-9f44-742f5eb9eabe" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lesson2/Assignment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -681,7 +682,7 @@
       <option name="presentableId" value="Default" />
       <updated>1500225389292</updated>
       <workItem from="1500225395736" duration="3279000" />
-      <workItem from="1500229696486" duration="3710000" />
+      <workItem from="1500229696486" duration="3746000" />
     </task>
     <task id="LOCAL-00001" summary="changing Math.java to Arithmetic.java">
       <created>1500230639457</created>
@@ -690,11 +691,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500230639457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Arithmetic.java">
+      <created>1500235464631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1500235464631</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6989000" />
+    <option name="totallyTimeSpent" value="7025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -739,7 +747,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing Math.java to Arithmetic.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing Math.java to Arithmetic.java" />
+    <MESSAGE value="Arithmetic.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arithmetic.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
