@@ -15,6 +15,8 @@ public class Trreangle {
         }
         System.out.println();
         System.out.println();
+
+
         //treeangle
         for (int i = 1; i < 6; i++) {
             for (int j = 0; j < i; j++) {
