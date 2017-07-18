@@ -1,4 +1,4 @@
-package lesson2;
+package tasks;
 
 /**
  * Created by Goro on 17.07.2017.
