@@ -5,6 +5,7 @@ package lesson2;
  */
 public class Trreangle {
     public static void main(String[] args) {
+        System.out.println(getRhombusStringRepresentation(11));
 
         // rectangle
         for (int i = 0; i < 5; i++) {
@@ -26,9 +27,8 @@ public class Trreangle {
         }
 
         // romb
-        System.out.println(getRhombusStringRepresentation(11));
     }
-
+    
     private static String getRhombusStringRepresentation(int middleStarCount) {
         StringBuilder result = new StringBuilder();
         for (int i = 1; i < middleStarCount * 2; i++) {
