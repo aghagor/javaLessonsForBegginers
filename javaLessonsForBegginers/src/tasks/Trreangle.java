@@ -17,6 +17,7 @@ public class Trreangle {
 
         int num =1;
 
+
         while (num<5){
             for (int k = 0; k < 10; k++) {
                 System.out.print(" *");
@@ -28,13 +29,14 @@ public class Trreangle {
         System.out.println();
 
 
+
         //treeangle
-//        for (int i = 1; i < 6; i++) {
-//            for (int j = 0; j < i; j++) {
-//                System.out.print(" *");
-//            }
-//            System.out.println(" ");
-//        }
+        for (int i = 1; i < 6; i++) {
+            for (int j = 0; j < i; j++) {
+                System.out.print(" *");
+            }
+            System.out.println(" ");
+        }
 
         int num2 = 1;
         while (num2 <6){
