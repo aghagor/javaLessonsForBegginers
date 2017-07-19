@@ -1,28 +1,16 @@
-package tasks;
+package lesson2;
 
 /**
  * Created by Goro on 17.07.2017.
  */
 public class Trreangle {
     public static void main(String[] args) {
-        System.out.println(getRhombusStringRepresentation(11));
 
         // rectangle
-//        for (int i = 0; i < 5; i++) {
-//            for (int j = 0; j < 10; j++) {
-//                System.out.print(" *");
-//            }
-//            System.out.println(" ");
-//        }
-
-        int num = 1;
-
-
-        while (num < 5) {
-            for (int k = 0; k < 10; k++) {
+        for (int i = 0; i < 5; i++) {
+            for (int j = 0; j < 10; j++) {
                 System.out.print(" *");
             }
-            num++;
             System.out.println(" ");
         }
         System.out.println();
@@ -37,16 +25,8 @@ public class Trreangle {
             System.out.println(" ");
         }
 
-        int num2 = 1;
-        while (num2 < 6) {
-            for (int i = 0; i < num2; i++) {
-                System.out.print(" *");
-            }
-            num2++;
-            System.out.println(" ");
-        }
-
         // romb
+        System.out.println(getRhombusStringRepresentation(11));
     }
 
     private static String getRhombusStringRepresentation(int middleStarCount) {
