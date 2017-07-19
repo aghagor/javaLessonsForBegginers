@@ -13,7 +13,7 @@ public class Condition {
 
         result = (num1 % 2 != 0) ? "kent" : "zuyg";
         System.out.println(num1 + " - " + result);
-        
+
         result = (num2 % 2 != 0) ? "kent" : "zuyg";
         System.out.println(num2 + " - " + result);
     }
